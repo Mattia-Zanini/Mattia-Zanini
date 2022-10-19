@@ -16,12 +16,6 @@
   -->
 </div>
 
-<div id="badges" align="center">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-
 <hr/>
 
 <div id="language" align="center">
