@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="350"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,4 +18,20 @@
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
   </a>
+</div>
+
+<div id="counter" align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+<hr/>
+<div id="language" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
