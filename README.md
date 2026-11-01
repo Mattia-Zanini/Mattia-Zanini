@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="250"/>
-</div>
+### Contact Information
 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/mattia.__z">
@@ -14,8 +12,7 @@
   </a>
 </div>
 
-<hr/>
-
+---
 
 
 ### Tech Stack
